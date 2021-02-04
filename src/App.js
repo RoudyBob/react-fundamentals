@@ -3,6 +3,7 @@ import Header from './components/Header';
 import TwoTruthsLie from './components/challenges/day01/TwoTruthsLie';
 import Footer from './components/challenges/day01/Footer';
 import Home from './components/challenges/day01/Home';
+import { Button } from 'reactstrap';
 
 function App() { // this is a root component
 
